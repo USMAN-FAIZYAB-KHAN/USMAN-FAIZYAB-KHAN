@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
-![Profile Banner](https://github.com/USMAN-FAIZYAB-KHAN/USMAN-FAIZYAB-KHAN/blob/main/Github%20banner.png)
+![Profile Banner](https://github.com/USMAN-FAIZYAB-KHAN/USMAN-FAIZYAB-KHAN/blob/main/github-banner.png)
 
 ---
 
