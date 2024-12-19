@@ -16,12 +16,10 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack  
-
 ### 💻 Languages  
 <p align="left">  
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python" height="30"/>  
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>  
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python" height="20"/>  
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="20"/>  
 </p>  
 
 ### 🚀 Frameworks & Libraries  
