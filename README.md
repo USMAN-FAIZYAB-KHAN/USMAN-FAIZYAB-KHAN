@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USMAN-FAIZYAB-KHAN&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USMAN-FAIZYAB-KHAN&layout=compact&theme=dark)
 
 ---
 
