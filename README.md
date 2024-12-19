@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on **[Your Current Project](#)**  
 - 🌱 I’m currently learning **[Technologies or Skills You Are Learning]**  
-- 💬 Ask me about **[Your Expertise]**  
-- 📫 How to reach me: **[usmanfaizyab123@gmail.com]**
+- 📫 How to reach me: **usmanfaizyab123@gmail.com**
 
 ---
 
