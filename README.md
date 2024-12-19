@@ -38,7 +38,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USMAN-FAIZYAB-KHAN&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USMAN-FAIZYAB-KHAN&layout=compact&theme=radical)
 
 ---
@@ -46,14 +45,6 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
-
----
-
-## 📝 Latest Blog Posts
-
-- [Title of Blog Post 1](#)
-- [Title of Blog Post 2](#)
-- [Title of Blog Post 3](#)
 
 ---
 
