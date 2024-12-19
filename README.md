@@ -45,3 +45,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>  
   </a>  
 </p>  
+
+![Alt Text](https://github.com/USMAN-FAIZYAB-KHAN/USMAN-FAIZYAB-KHAN/blob/main/animation.gif)
+
