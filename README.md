@@ -5,7 +5,7 @@
 ## 🌟 About Me  
 
 - 🔭 I’m currently working on **[Your Current Project](#)**  
-- 🌱 I’m currently learning **[Technologies or Skills You Are Learning]**  
+- 🌱 I’m currently learning advanced web development techniques, API integrations, and exploring innovative solutions in full-stack development.  
 - 📫 How to reach me: **usmanfaizyab123@gmail.com**
 
 ---
