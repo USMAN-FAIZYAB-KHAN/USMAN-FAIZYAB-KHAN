@@ -4,8 +4,9 @@
 
 ## 🌟 About Me  
 
-- 🔭 I’m currently working on **[Your Current Project](#)**  
-- 🌱 I’m currently learning advanced web development techniques, API integrations, and exploring innovative solutions in full-stack development.  
+- 🔭 I’m currently studying Computer and Information Systems Engineering at NED University of Engineering and Technology. I am a passionate full-stack developer with experience in creating personal projects for university and personal growth.
+- 🌱 I specialize in Python and JavaScript programming and am currently enhancing my skills in advanced web development techniques, API integrations, and full-stack application development.
+- 🚀 I am continuously striving to improve my technical expertise and bring innovative ideas to life through my projects. 
 - 📫 How to reach me: **usmanfaizyab123@gmail.com**
 
 ---
