@@ -1,52 +1,59 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# Hi there! 👋 Welcome to my GitHub Profile  
 
-![Profile Banner](https://github.com/USMAN-FAIZYAB-KHAN/USMAN-FAIZYAB-KHAN/blob/main/github-banner.png)
-
----
-
-## 🌟 About Me
-
-- 🔭 I’m currently working on **[Your Current Project](#)**
-- 🌱 I’m currently learning **[Technologies or Skills You Are Learning]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Email or Social Links]**
-- ⚡ Fun fact: **[A Cool or Fun Fact About You]**
+![Profile Banner](https://github.com/USMAN-FAIZYAB-KHAN/USMAN-FAIZYAB-KHAN/blob/main/github-banner.png)  
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 About Me  
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🚀 Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧑‍💻 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+- 🔭 I’m currently working on **[Your Current Project](#)**  
+- 🌱 I’m currently learning **[Technologies or Skills You Are Learning]**  
+- 💬 Ask me about **[Your Expertise]**  
+- 📫 How to reach me: **[Your Email or Social Links]**  
+- ⚡ Fun fact: **[A Cool or Fun Fact About You]**  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USMAN-FAIZYAB-KHAN&layout=compact&theme=dark)
+### 💻 Languages  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  
+</p>  
+
+### 🚀 Frameworks & Libraries  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/>  
+</p>  
+
+### 🗄️ Databases  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>  
+</p>  
+
+### 🧑‍💻 Tools & Platforms  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>  
+</p>  
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Stats  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/usman-faizyab-khan)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USMAN-FAIZYAB-KHAN&layout=compact&theme=dark)  
 
 ---
 
-_Thanks for stopping by! Have a great day!_ ✨
+## 🌐 Connect with Me  
+
+<p align="left">  
+  <a href="https://www.linkedin.com/in/usman-faizyab-khan" target="_blank">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>  
+  </a>  
+</p>  
