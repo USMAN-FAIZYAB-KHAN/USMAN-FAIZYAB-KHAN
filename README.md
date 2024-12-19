@@ -17,29 +17,22 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages  
-<p align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>  
-</p>  
+- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =30x30) **Python**  
+- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =30x30) **JavaScript**  
 
 ### 🚀 Frameworks & Libraries  
-<p align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="30" height="30"/>  
-</p>  
+- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg =30x30) **Node.js**  
+- ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg =30x30) **Django**  
+- ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg =30x30) **Tailwind CSS**  
 
 ### 🗄️ Databases  
-<p align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>  
-</p>  
+- ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg =30x30) **MongoDB**  
+- ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg =30x30) **MySQL**  
 
 ### 🧑‍💻 Tools & Platforms  
-<p align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>  
-</p>  
+- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg =30x30) **Git**  
+- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg =30x30) **GitHub**  
+- ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg =30x30) **VS Code**  
 
 ---
 
