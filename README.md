@@ -45,25 +45,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
-
----
-
-## 🏆 Achievements
-
-- 🥇 **[Achievement 1]**
-- 🏅 **[Achievement 2]**
-- 🎖️ **[Achievement 3]**
-
----
-
-## 📂 Featured Projects
-
-### [Project Name 1](https://github.com/YourUsername/YourProject1)
-A brief description of what the project does and its features.
-
-### [Project Name 2](https://github.com/YourUsername/YourProject2)
-A brief description of what the project does and its features.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/usman-faizyab-khan)
 
 ---
 
